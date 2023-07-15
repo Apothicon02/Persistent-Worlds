@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Persistent-Worlds.iml" filepath="$PROJECT_DIR$/Persistent-Worlds.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Persistent-Worlds.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Persistent-Worlds.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Persistent-Worlds.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Persistent-Worlds.test.iml" />
     </modules>
