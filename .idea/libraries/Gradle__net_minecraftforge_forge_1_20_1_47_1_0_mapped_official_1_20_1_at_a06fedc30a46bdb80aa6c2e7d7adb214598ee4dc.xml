@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.minecraftforge:forge:1.20.1-47.1.0_mapped_official_1.20.1_at_a06fedc30a46bdb80aa6c2e7d7adb214598ee4dc" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.minecraftforge" artifactId="forge" version="1.20.1-47.1.0_mapped_official_1.20.1_at_a06fedc30a46bdb80aa6c2e7d7adb214598ee4dc" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.20.1-47.1.0_mapped_official_1.20.1/forge-1.20.1-47.1.0_mapped_official_1.20.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/build/fg_cache/net/minecraftforge/forge/1.20.1-47.1.0_mapped_official_1.20.1/forge-1.20.1-47.1.0_mapped_official_1.20.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

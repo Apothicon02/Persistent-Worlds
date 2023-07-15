@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: curse.maven:textrues-rubidium-options-663125:4581832_mapped_official_1.20.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="curse.maven" artifactId="textrues-rubidium-options-663125" version="4581832_mapped_official_1.20.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/textrues-rubidium-options-663125/4581832_mapped_official_1.20.1/textrues-rubidium-options-663125-4581832_mapped_official_1.20.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
